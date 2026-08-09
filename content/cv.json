@@ -1,0 +1,571 @@
+{
+  "identity": {
+    "fullName": "Jean Sauveur Rukundo Mizerere",
+    "location": "Kigali, Rwanda",
+    "email": "sauvebrade@gmail.com",
+    "phone": "+250 786 635 688",
+    "linkedin": "linkedin.com/in/mizerere",
+    "website": ""
+  },
+  "profiles": {
+    "audit": {
+      "id": "audit",
+      "label": "Audit",
+      "headline": "Systems Audit Manager | IT & Integrated Assurance | CISA",
+      "summary": "Systems Audit Manager at Bank of Kigali with over six years in IT and integrated finance/IT audit. Promoted from Auditor (2020) to Senior (2021) to Manager (2024). Work covers core banking, payments, and digital channels for a bank serving more than 500,000 customers.\n\nMain strengths are risk-based systems audits, ITGC and application controls, data validation on major core banking migrations (Delta to T24; NuoDB to Oracle), and support to finance on reconciliations and revenue issues. CISA and CISM certified. Comfortable with ISO/IEC 27001, SWIFT CSP, and PCI-DSS environments.\n\nAlso introduce practical automation and data analysis into audit work so reviews are faster and findings are clearer for management.",
+      "sectionOrder": [
+        "summary",
+        "skills",
+        "experience",
+        "certifications",
+        "education",
+        "awards",
+        "languages"
+      ],
+      "showProjects": false,
+      "showAcademic": false,
+      "showReferences": false,
+      "maxBulletsByRole": {
+        "bk-manager": 5,
+        "bk-senior": 4,
+        "bk-auditor": 2,
+        "iia": 1,
+        "mentale": 1,
+        "cmu-gta": 1,
+        "comzafrica": 1
+      },
+      "certOrder": ["cisa", "cism", "iso27001", "iso22301", "ceh"],
+      "skillGroupOrder": [
+        "auditLeadership",
+        "frameworks",
+        "riskControls",
+        "innovation",
+        "tools"
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Security",
+      "headline": "Information Security & Cyber Assurance | CISA · CISM · CEH",
+      "summary": "Information security and cyber assurance professional with over six years in banking. As Systems Audit Manager at Bank of Kigali, I lead cyber and IT audits on core banking, payments, and digital platforms, using ISO/IEC 27001, SWIFT CSP, and PCI-DSS as reference points.\n\nBackground includes ethical hacking (CEH), secure application work, SIEM-based anomaly detection research at CMU Africa, and malware analysis. Day-to-day work is more GRC and assurance: control assessments, cloud reviews, incident response readiness, and disaster recovery checks.\n\nHold CISA, CISM, CEH, and ISO 27001 Lead Auditor. Aim is simple: find what is weak, explain the risk clearly, and push for fixes that stick.",
+      "sectionOrder": [
+        "summary",
+        "skills",
+        "experience",
+        "certifications",
+        "projects",
+        "education",
+        "awards",
+        "languages"
+      ],
+      "showProjects": true,
+      "showAcademic": false,
+      "showReferences": false,
+      "maxBulletsByRole": {
+        "bk-manager": 5,
+        "bk-senior": 4,
+        "bk-auditor": 2,
+        "iia": 1,
+        "mentale": 1,
+        "cmu-gta": 2,
+        "comzafrica": 1
+      },
+      "certOrder": ["cism", "cisa", "ceh", "iso27001", "iso22301"],
+      "skillGroupOrder": [
+        "riskControls",
+        "frameworks",
+        "auditLeadership",
+        "tools",
+        "innovation"
+      ]
+    },
+    "risk": {
+      "id": "risk",
+      "label": "Risk",
+      "headline": "IT & Operational Risk | Controls and Resilience",
+      "summary": "Risk and controls professional with over six years working across finance and technology at Bank of Kigali. Experience sits mainly in independent assurance, with close work on systems risk, third-party and vendor exposure, business continuity (ISO 22301), and control issues that affect financial integrity.\n\nReceived the 2024 Bank of Kigali Risk Management Award for leading data validation on the T24 R20 NuoDB-to-Oracle migration, on systems used by more than 500,000 customers. Regularly work with finance on reconciliation problems, revenue leakage, and old system issues, using data analysis to show impact.\n\nCISA, CISM, and Lead Auditor for ISO 27001 and ISO 22301. Prefer recommendations that are risk-ranked and usable by management, not long lists of findings with no priority.",
+      "sectionOrder": [
+        "summary",
+        "skills",
+        "experience",
+        "certifications",
+        "education",
+        "awards",
+        "languages"
+      ],
+      "showProjects": false,
+      "showAcademic": false,
+      "showReferences": false,
+      "maxBulletsByRole": {
+        "bk-manager": 5,
+        "bk-senior": 4,
+        "bk-auditor": 2,
+        "iia": 1,
+        "mentale": 1,
+        "cmu-gta": 1,
+        "comzafrica": 1
+      },
+      "certOrder": ["cisa", "cism", "iso22301", "iso27001", "ceh"],
+      "skillGroupOrder": [
+        "riskControls",
+        "frameworks",
+        "auditLeadership",
+        "innovation",
+        "tools"
+      ]
+    },
+    "academic": {
+      "id": "academic",
+      "label": "Academic",
+      "headline": "Cybersecurity Practitioner | MS IT, CMU Africa · CISA · CISM · CEH",
+      "summary": "MS in Information Technology from Carnegie Mellon University Africa, with over six years in cyber, IT, and systems assurance in banking. Previously a Graduate Teaching Assistant at CMU Africa for cybersecurity and ethical hacking labs.\n\nIndustry work covers ISO 27001, SWIFT CSP, core banking controls, secure development practices, and risk management at Bank of Kigali. Research projects at CMU focused on AI for threat and anomaly detection, and machine learning for malware behaviour analysis. Have also built production web and mobile applications (Django, Flutter) part-time.\n\nInterested in teaching that mixes standards and theory with how controls and security decisions work in real institutions, especially for a Bachelor of Cybersecurity programme.",
+      "sectionOrder": [
+        "summary",
+        "academic",
+        "experience",
+        "education",
+        "certifications",
+        "projects",
+        "skills",
+        "awards",
+        "languages"
+      ],
+      "showProjects": true,
+      "showAcademic": true,
+      "showReferences": false,
+      "maxBulletsByRole": {
+        "bk-manager": 4,
+        "bk-senior": 3,
+        "bk-auditor": 2,
+        "iia": 1,
+        "mentale": 1,
+        "cmu-gta": 2,
+        "comzafrica": 1
+      },
+      "certOrder": ["cisa", "cism", "ceh", "iso27001", "iso22301"],
+      "skillGroupOrder": [
+        "frameworks",
+        "riskControls",
+        "tools",
+        "auditLeadership",
+        "innovation"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "id": "bk-manager",
+      "category": "professional",
+      "title": "Systems Audit Manager",
+      "organization": "Bank of Kigali Plc",
+      "location": "Kigali, Rwanda",
+      "start": "2024-01",
+      "end": null,
+      "bullets": [
+        {
+          "id": "bkm-1",
+          "priority": { "audit": 1, "security": 1, "risk": 2, "academic": 2 },
+          "variants": {
+            "audit": "Plan and run risk-based cyber, IT, and financial systems audits on core banking, payment channels, and digital platforms, from scoping through reporting, with ISO/IEC 27001 and SWIFT CSP as key reference frameworks.",
+            "security": "Lead cyber and IT audits on core banking, payments, and digital channels, testing security and control design against ISO/IEC 27001 and SWIFT CSP expectations.",
+            "risk": "Run risk-based assurance over core banking and digital platforms, focusing on control effectiveness, residual risk, and alignment with ISO/IEC 27001 and SWIFT CSP.",
+            "academic": "Lead cyber, IT, and financial systems audits in a large commercial bank, applying ISO 27001 and SWIFT CSP in real control testing and reporting."
+          }
+        },
+        {
+          "id": "bkm-2",
+          "priority": { "audit": 2, "security": 2, "risk": 3, "academic": 4 },
+          "variants": {
+            "audit": "Advise management on application security, SDLC governance, and financial reconciliations. Work with finance teams on trial balance imbalances and older revenue-loss issues, using data analysis to show what the systems are doing.",
+            "security": "Advise on cyber risk posture, application security, and SDLC governance. Use data analysis to link control gaps to business and revenue impact so technical issues get management attention.",
+            "risk": "Advise senior stakeholders on technology and cyber risk, application controls, and process weaknesses, including financial exposure from reconciliation and legacy system problems.",
+            "academic": "Advise on application security, SDLC governance, and data-driven investigation of control failures that sit between IT and finance."
+          }
+        },
+        {
+          "id": "bkm-3",
+          "priority": { "audit": 3, "security": 4, "risk": 1, "academic": 3 },
+          "variants": {
+            "audit": "Led data validation for the 2024 T24 R20 database migration from NuoDB to Oracle. Built scripts to check accuracy and completeness of financial and customer data. Received the 2024 Bank of Kigali Risk Management Award for this work.",
+            "security": "Led data integrity checks for the 2024 T24 R20 migration from NuoDB to Oracle, writing validation scripts for critical financial and customer data on systems serving 500,000+ customers. Awarded the 2024 Risk Management Award.",
+            "risk": "Led data-integrity risk work for the 2024 T24 R20 NuoDB-to-Oracle migration through automated validation of financial and customer data. Recognised with the 2024 Bank of Kigali Risk Management Award.",
+            "academic": "Designed and ran large-scale data validation for a core banking database migration (NuoDB to Oracle on T24 R20), using scripting and data quality checks. Work recognised with the bank’s 2024 Risk Management Award."
+          }
+        },
+        {
+          "id": "bkm-4",
+          "priority": { "audit": 4, "security": 3, "risk": 4, "academic": 5 },
+          "variants": {
+            "audit": "Review controls on cloud-hosted systems, incident response readiness, and disaster recovery. Promote practical use of AI and automation in internal audit to speed testing and support fraud detection.",
+            "security": "Assess cloud security controls, incident response planning, and disaster recovery readiness. Pilot AI and automation where they improve audit coverage and fraud-related testing.",
+            "risk": "Review cloud controls, incident response, and disaster recovery as part of operational resilience work. Use automation where it improves detection of fraud and control failure.",
+            "academic": "Review cloud controls, incident response, and disaster recovery, and pilot automation in assurance work where it is useful."
+          }
+        },
+        {
+          "id": "bkm-5",
+          "priority": { "audit": 5, "security": 5, "risk": 5, "academic": 6 },
+          "variants": {
+            "audit": "Promoted to Manager in 2024 after advisory work with finance on reconciliations. Now lead IT advisory and systems audits for the bank.",
+            "security": "Promoted to Manager in 2024. Now accountable for systems audit and IT advisory covering cyber, technology, and integrated assurance.",
+            "risk": "Promoted to Manager in 2024, in part for work that reduced reconciliation-related risk. Now own systems audit and IT advisory for the function.",
+            "academic": "Promoted to Systems Audit Manager in 2024; currently lead IT advisory and systems assurance at Bank of Kigali."
+          }
+        }
+      ]
+    },
+    {
+      "id": "bk-senior",
+      "category": "professional",
+      "title": "Senior Information Systems Auditor",
+      "organization": "Bank of Kigali Plc",
+      "location": "Kigali, Rwanda",
+      "start": "2023-01",
+      "end": "2024-01",
+      "bullets": [
+        {
+          "id": "bks-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Completed systems risk assessments on core banking, mobile and internet banking, and payment channels. Recommended control changes and used data analytics to support detection and reconciliation work.",
+            "security": "Assessed security and control risks on core banking, digital channels, and payments, and recommended improvements where monitoring and control design were weak.",
+            "risk": "Carried out systems risk assessments on critical banking platforms and channels, documenting control gaps and residual risk for management action.",
+            "academic": "Completed systems risk assessments on banking platforms and digital channels, including control design and residual risk."
+          }
+        },
+        {
+          "id": "bks-2",
+          "priority": { "audit": 2, "security": 2, "risk": 2, "academic": 3 },
+          "variants": {
+            "audit": "Reviewed SWIFT CSP remediation and third-party integrations. Led analysis of legacy system issues linked to revenue assurance and advised management using data analysis.",
+            "security": "Reviewed SWIFT CSP remediation progress and third-party integration risks on payment-related systems.",
+            "risk": "Assessed SWIFT CSP remediation status and vendor/third-party integration risk. Used analytics to find system discrepancies that affected revenue and control reliability.",
+            "academic": "Reviewed SWIFT CSP compliance work and third-party integration risk on payment systems."
+          }
+        },
+        {
+          "id": "bks-3",
+          "priority": { "audit": 3, "security": 3, "risk": 3, "academic": 2 },
+          "variants": {
+            "audit": "Supported ISO/IEC 27001 control work in IT through quality assurance reviews. Advised finance on trial balance issues and helped reduce recurring discrepancies.",
+            "security": "Supported ISO/IEC 27001 control implementation in IT through QA reviews and practical improvement recommendations.",
+            "risk": "Supported ISO/IEC 27001 control maturity in IT and helped reduce process discrepancies that affected financial integrity.",
+            "academic": "Supported ISO/IEC 27001 control work inside IT operations through QA reviews and practical recommendations."
+          }
+        },
+        {
+          "id": "bks-4",
+          "priority": { "audit": 4, "security": 4, "risk": 4, "academic": 4 },
+          "variants": {
+            "audit": "Took part in data analytics audits aimed at fraud detection. Presented findings and progress to senior management, and engaged with regulators when required.",
+            "security": "Used data analytics in audits to improve fraud detection, and reported findings to senior management and, where needed, regulatory stakeholders.",
+            "risk": "Used analytics-based audits to improve fraud risk detection and kept assurance work aligned with management and regulatory expectations.",
+            "academic": "Used analytics in audit work for fraud detection and presented findings to senior and regulatory stakeholders."
+          }
+        }
+      ]
+    },
+    {
+      "id": "bk-auditor",
+      "category": "professional",
+      "title": "Information Systems Auditor",
+      "organization": "Bank of Kigali Plc",
+      "location": "Kigali, Rwanda",
+      "start": "2020-11",
+      "end": "2022-12",
+      "bullets": [
+        {
+          "id": "bka-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Led data validation for the 2021 core banking migration from Delta to T24 R20. Wrote scripts to check financial and customer data accuracy for more than 500,000 customers. Received Best Performer in Control Function (2021) and was promoted to Senior Auditor.",
+            "security": "Supported data integrity during the 2021 Delta-to-T24 R20 core banking migration for 500,000+ customers through validation scripting. Named Best Performer in Control Function (2021).",
+            "risk": "Managed migration and data-integrity risk during the 2021 Delta-to-T24 R20 cutover for 500,000+ customers. Awarded Best Performer in Control Function (2021) and promoted to Senior Auditor.",
+            "academic": "Led data validation for a full core banking migration (Delta to T24), including scripting and data quality checks. Later recognised with a bank-wide control excellence award."
+          }
+        },
+        {
+          "id": "bka-2",
+          "priority": { "audit": 2, "security": 2, "risk": 2, "academic": 2 },
+          "variants": {
+            "audit": "Supported post-migration systems audit work that improved fraud and risk controls after the T24 go-live.",
+            "security": "Covered fraud- and security-related controls in post-migration systems audits after the T24 go-live.",
+            "risk": "Helped tighten fraud and operational risk controls after the core banking migration through systems audit work.",
+            "academic": "Worked on post-migration systems audits that focused on fraud and risk controls after a major core banking change."
+          }
+        }
+      ]
+    },
+    {
+      "id": "iia",
+      "category": "parttime",
+      "title": "Software Developer Consultant (Part-Time)",
+      "organization": "Institute of Internal Auditors (IIA) Rwanda",
+      "location": "Kigali, Rwanda",
+      "start": "2023-07",
+      "end": "2024-03",
+      "bullets": [
+        {
+          "id": "iia-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Built and deployed member engagement and administration platforms for IIA Rwanda, with authentication and basic secure coding practices.",
+            "security": "Built secure member platforms for IIA Rwanda, including authentication and secure coding practices.",
+            "risk": "Delivered application platforms for IIA Rwanda with authentication and secure development practices to reduce access and technology risk.",
+            "academic": "Developed secure web platforms for a professional audit body, including authentication and secure coding."
+          }
+        }
+      ]
+    },
+    {
+      "id": "mentale",
+      "category": "parttime",
+      "title": "Software Engineer (Part-Time)",
+      "organization": "Mentale Rwanda",
+      "location": "Kigali, Rwanda",
+      "start": "2020-04",
+      "end": "2023-12",
+      "bullets": [
+        {
+          "id": "men-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Built web and mobile applications for mental health services using Django and Flutter, hosted on cloud infrastructure.",
+            "security": "Built web and mobile applications (Django, Flutter) for mental health services, with attention to secure cloud hosting of sensitive data.",
+            "risk": "Delivered web and mobile applications for mental health services on cloud infrastructure, with focus on security and reliability.",
+            "academic": "Built production web and mobile apps (Django, Flutter) on cloud infrastructure for a mental health service provider."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cmu-gta",
+      "category": "early",
+      "title": "Graduate Teaching Assistant",
+      "organization": "Carnegie Mellon University Africa",
+      "location": "Kigali, Rwanda",
+      "start": "2019-08",
+      "end": "2020-12",
+      "bullets": [
+        {
+          "id": "gta-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Supported cybersecurity and ethical hacking labs, including attack simulation exercises such as TCP SYN flood and Shrew attacks.",
+            "security": "Helped run cybersecurity and ethical hacking labs, including hands-on attack simulations (e.g. TCP SYN flood, Shrew attacks).",
+            "risk": "Supported cybersecurity lab sessions covering common attack techniques and how they relate to technology risk.",
+            "academic": "Assisted faculty with cybersecurity and ethical hacking laboratories, including attack simulation exercises (e.g. TCP SYN flood, Shrew attacks), and supported students during practical sessions."
+          }
+        },
+        {
+          "id": "gta-2",
+          "priority": { "audit": 3, "security": 2, "risk": 3, "academic": 2 },
+          "variants": {
+            "audit": "Helped students use offensive techniques to better understand defence and control design.",
+            "security": "Helped students connect offensive techniques to defensive controls and secure system behaviour.",
+            "risk": "Helped students link attack scenarios to wider technology and operational risk.",
+            "academic": "Mentored students in lab sessions and helped them connect concepts to practical exercises."
+          }
+        }
+      ]
+    },
+    {
+      "id": "comzafrica",
+      "category": "early",
+      "title": "Cybersecurity Analyst Intern",
+      "organization": "ComzAfrica",
+      "location": "Rwanda",
+      "start": "2019-05",
+      "end": "2019-09",
+      "bullets": [
+        {
+          "id": "com-1",
+          "priority": { "audit": 1, "security": 1, "risk": 1, "academic": 1 },
+          "variants": {
+            "audit": "Built an internal Django tool to automate vulnerability scans and system audit checks, which reduced turnaround time and improved coverage.",
+            "security": "Developed a Django tool that automated vulnerability scanning and related system audit checks, improving speed and coverage.",
+            "risk": "Automated vulnerability scanning and system audit checks with a Django tool, so issues could be found earlier and more consistently.",
+            "academic": "Built a Django tool to automate vulnerability scanning and system audit checks."
+          }
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "cmu",
+      "institution": "Carnegie Mellon University Africa",
+      "credential": "Master of Science in Information Technology",
+      "location": "Kigali, Rwanda",
+      "start": "2018",
+      "end": "2020"
+    },
+    {
+      "id": "ur",
+      "institution": "University of Rwanda",
+      "credential": "Bachelor of Science in Electronics and Telecommunications Engineering",
+      "location": "Rwanda",
+      "start": "2013",
+      "end": "2017"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cisa",
+      "name": "Certified Information Systems Auditor (CISA)",
+      "issuer": "ISACA"
+    },
+    {
+      "id": "cism",
+      "name": "Certified Information Security Manager (CISM)",
+      "issuer": "ISACA"
+    },
+    {
+      "id": "ceh",
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council"
+    },
+    {
+      "id": "iso27001",
+      "name": "ISO/IEC 27001 Lead Auditor",
+      "issuer": "PECB"
+    },
+    {
+      "id": "iso22301",
+      "name": "ISO 22301 Lead Auditor",
+      "issuer": "PECB"
+    }
+  ],
+  "skills": {
+    "auditLeadership": {
+      "label": "Audit Leadership & Processes",
+      "items": [
+        "Risk-based audit planning",
+        "Engagement execution & reporting",
+        "Quality assurance",
+        "Integrated finance/IT assurance",
+        "Revenue assurance analytics"
+      ]
+    },
+    "frameworks": {
+      "label": "Frameworks & Compliance",
+      "items": [
+        "ISO/IEC 27001",
+        "SWIFT CSP",
+        "NIST",
+        "PCI-DSS",
+        "ISO 22301",
+        "Banking regulation"
+      ]
+    },
+    "riskControls": {
+      "label": "Risk & Controls",
+      "items": [
+        "ITGC & application controls",
+        "Cyber risk assessment",
+        "Vendor / third-party risk",
+        "Incident response readiness",
+        "Disaster recovery review",
+        "Fraud analytics"
+      ]
+    },
+    "innovation": {
+      "label": "Advisory & Automation",
+      "items": [
+        "Automation in audit",
+        "Finance reconciliation support",
+        "SDLC governance",
+        "Migration data validation"
+      ]
+    },
+    "tools": {
+      "label": "Tools & Technical",
+      "items": [
+        "TeamMate+",
+        "IDEA",
+        "Python",
+        "SQL / scripting",
+        "Django",
+        "Flutter"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": "threat-ai",
+      "title": "Threat and Anomaly Detection Using AI",
+      "organization": "Carnegie Mellon University",
+      "start": "2019-08",
+      "end": "2019-12",
+      "bullets": [
+        "Led two developers to build a threat and anomaly detection tool using a modified isolation forest model trained on BIRGER SIEM data.",
+        "Deployed a real-time network anomaly detection system with a dashboard; detection accuracy was about 87% on the attack cases tested."
+      ]
+    },
+    {
+      "id": "malware-ml",
+      "title": "Dynamic Analysis of Malware Behaviour Using Machine Learning",
+      "organization": "Carnegie Mellon University",
+      "start": "2019-01",
+      "end": "2019-08",
+      "bullets": [
+        "Collected malware behaviour data on Windows 8.1 using the Cuckoo sandbox.",
+        "Compared machine-learning classifiers on dynamic features for malware detection."
+      ]
+    }
+  ],
+  "academic": {
+    "teachingInterests": [
+      "Cybersecurity fundamentals and ethical hacking labs",
+      "Information security management (ISO 27001) and GRC",
+      "IT audit, ITGC, and risk-based assurance",
+      "Secure software development and application security",
+      "Business continuity and operational resilience (ISO 22301)",
+      "Data analytics for fraud and anomaly detection"
+    ],
+    "researchInterests": [
+      "AI and machine learning for threat and anomaly detection",
+      "Malware behaviour analysis and dynamic detection",
+      "Control effectiveness and cyber risk in financial services",
+      "Linking industry assurance practice to cybersecurity teaching"
+    ],
+    "teachingExperienceNote": "Graduate Teaching Assistant at Carnegie Mellon University Africa (2019–2020) for cybersecurity and ethical hacking labs."
+  },
+  "awards": [
+    {
+      "id": "award-2024",
+      "year": "2024",
+      "title": "Risk Management Award",
+      "organization": "Bank of Kigali Plc",
+      "detail": "Data validation leadership on the T24 R20 NuoDB-to-Oracle migration"
+    },
+    {
+      "id": "award-2021",
+      "year": "2021",
+      "title": "Best Performer in Control Function",
+      "organization": "Bank of Kigali Plc",
+      "detail": "Data validation leadership on the Delta-to-T24 migration"
+    }
+  ],
+  "languages": [
+    { "name": "English", "level": "Full professional" },
+    { "name": "French", "level": "Professional working" },
+    { "name": "Kinyarwanda", "level": "Native" }
+  ],
+  "references": [
+    {
+      "name": "Jacqueline Nkwihoreze",
+      "title": "Chief Internal Auditor",
+      "organization": "Bank of Kigali",
+      "phone": "+250 788 312 180",
+      "email": "jnkwihoreze@bk.rw"
+    },
+    {
+      "name": "Dr Emmanuel Ndashimye",
+      "title": "Assistant Teaching Professor",
+      "organization": "Carnegie Mellon University",
+      "phone": "+250 785 200 934",
+      "email": "endashim@andrew.cmu.edu"
+    }
+  ]
+}
