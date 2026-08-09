@@ -24,8 +24,18 @@ lerna-debug.log*
 *.sln
 *.sw?
 
-# Local previews / env
+# Local env / previews
 preview-*.png
 .env
 .env.*
 !.env.example
+
+# Docx tooling
+.docx-venv/
+commitment-unpacked/
+commitment-replacements.json
+
+# Personal / source documents (not part of the CV builder app)
+*.docx
+Commitment Letter*
+Mizerere CV*
