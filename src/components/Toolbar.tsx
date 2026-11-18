@@ -21,6 +21,7 @@ interface ToolbarProps {
   onDownloadJson: () => void
   onReset: () => void
   savedFlash: boolean
+  publicSite?: boolean
 }
 
 export function Toolbar({
@@ -35,6 +36,7 @@ export function Toolbar({
   onDownloadJson,
   onReset,
   savedFlash,
+  publicSite = false,
 }: ToolbarProps) {
   return (
     <header className="toolbar no-print">
@@ -42,9 +44,11 @@ export function Toolbar({
         <div>
           <p className="toolbar-brand-kicker">Professional CV</p>
           <p className="toolbar-brand-sub">
-            {editMode
-              ? 'Editing live — preview updates instantly'
-              : 'Tailored profiles · edit · PDF & Word'}
+            {publicSite
+              ? 'Choose a role, then save a copy'
+              : editMode
+                ? 'Editing live — preview updates instantly'
+                : 'Tailored profiles · edit · PDF & Word'}
           </p>
         </div>
 
@@ -68,25 +72,29 @@ export function Toolbar({
           </div>
 
           <div className="flex flex-wrap gap-2">
-            <button
-              type="button"
-              onClick={onToggleEdit}
-              className={['btn', editMode ? 'btn-primary' : 'btn-secondary'].join(' ')}
-            >
-              {editMode ? '✓ Editing' : 'Edit CV'}
-            </button>
+            {!publicSite && (
+              <button
+                type="button"
+                onClick={onToggleEdit}
+                className={['btn', editMode ? 'btn-primary' : 'btn-secondary'].join(' ')}
+              >
+                {editMode ? '✓ Editing' : 'Edit CV'}
+              </button>
+            )}
 
-            <button
-              type="button"
-              onClick={onToggleReferences}
-              className={[
-                'btn',
-                showReferences ? 'btn-primary' : 'btn-secondary',
-              ].join(' ')}
-              title="Include references section on this profile"
-            >
-              {showReferences ? 'Refs: On' : 'Show references'}
-            </button>
+            {!publicSite && (
+              <button
+                type="button"
+                onClick={onToggleReferences}
+                className={[
+                  'btn',
+                  showReferences ? 'btn-primary' : 'btn-secondary',
+                ].join(' ')}
+                title="Include references section on this profile"
+              >
+                {showReferences ? 'Refs: On' : 'Show references'}
+              </button>
+            )}
 
             <button type="button" onClick={onPrint} className="btn btn-primary">
               <IconDownload />
@@ -96,22 +104,26 @@ export function Toolbar({
               <IconDoc />
               Word
             </button>
-            <button
-              type="button"
-              onClick={onDownloadJson}
-              className="btn btn-secondary"
-              title="Download full content as JSON backup"
-            >
-              {savedFlash ? 'Downloaded ✓' : 'Download JSON'}
-            </button>
-            <button
-              type="button"
-              onClick={onReset}
-              className="btn btn-secondary"
-              title="Reset to original content file"
-            >
-              Reset
-            </button>
+            {!publicSite && (
+              <button
+                type="button"
+                onClick={onDownloadJson}
+                className="btn btn-secondary"
+                title="Download full content as JSON backup"
+              >
+                {savedFlash ? 'Downloaded ✓' : 'Download JSON'}
+              </button>
+            )}
+            {!publicSite && (
+              <button
+                type="button"
+                onClick={onReset}
+                className="btn btn-secondary"
+                title="Reset to original content file"
+              >
+                Reset
+              </button>
+            )}
           </div>
         </div>
       </div>
