@@ -34,7 +34,7 @@
         "cmu-gta": 1,
         "comzafrica": 1
       },
-      "certOrder": ["cisa", "cism", "iso27001", "iso22301", "ceh"],
+      "certOrder": ["cisa", "cism", "iso27001", "iso22301", "ceh", "hot-digital-bank"],
       "skillGroupOrder": [
         "auditLeadership",
         "frameworks",
@@ -70,7 +70,7 @@
         "cmu-gta": 2,
         "comzafrica": 1
       },
-      "certOrder": ["cism", "cisa", "ceh", "iso27001", "iso22301"],
+      "certOrder": ["cism", "cisa", "ceh", "iso27001", "iso22301", "hot-digital-bank"],
       "skillGroupOrder": [
         "riskControls",
         "frameworks",
@@ -105,7 +105,7 @@
         "cmu-gta": 1,
         "comzafrica": 1
       },
-      "certOrder": ["cisa", "cism", "iso22301", "iso27001", "ceh"],
+      "certOrder": ["cisa", "cism", "iso22301", "iso27001", "ceh", "hot-digital-bank"],
       "skillGroupOrder": [
         "riskControls",
         "frameworks",
@@ -142,7 +142,7 @@
         "cmu-gta": 2,
         "comzafrica": 1
       },
-      "certOrder": ["cisa", "cism", "ceh", "iso27001", "iso22301"],
+      "certOrder": ["cisa", "cism", "ceh", "iso27001", "iso22301", "hot-digital-bank"],
       "skillGroupOrder": [
         "frameworks",
         "riskControls",
@@ -434,6 +434,11 @@
       "id": "iso22301",
       "name": "ISO 22301 Lead Auditor",
       "issuer": "PECB"
+    },
+    {
+      "id": "hot-digital-bank",
+      "name": "Executive Programme — Shaping the Digital Future of Your Bank",
+      "issuer": "House of Training, Luxembourg · 51 hours, 2026"
     }
   ],
   "skills": {
