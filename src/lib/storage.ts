@@ -2,7 +2,7 @@ import type { CvData } from '../types'
 
 // Bump version when default content/cv.json is substantially rewritten so browsers
 // pick up the new baseline instead of stale localStorage copy.
-const STORAGE_KEY = 'mizerere-cv-data-v3'
+const STORAGE_KEY = 'mizerere-cv-data-v4'
 
 export function loadStoredCv(): CvData | null {
   try {
